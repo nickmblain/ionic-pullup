@@ -1,5 +1,8 @@
 # Changelog
 
+## 2020-09-30 v5.0.0
+Updated to work with Angular 9 and Ionic 5
+
 ## 2020-03-08 • v4.0.0-beta.4
 Fixed glitch when changing orientation or resuming app from background
 
