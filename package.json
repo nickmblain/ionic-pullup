@@ -1,9 +1,9 @@
 {
   "name": "ionic-pullup",
-  "description": "ionic-pullup for Angular 8/Ionic 4+",
-  "version": "4.0.0-beta.6",
-  "author": "Ariel Faur",
-  "homepage": "https://github.com/arielfaur/ionic-pullup.git",
+  "description": "ionic-pullup for Angular 9/Ionic 5+",
+  "version": "4.0.0-beta.7",
+  "author": "Nick Blain",
+  "homepage": "https://github.com/nickmblain/ionic-pullup.git",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
