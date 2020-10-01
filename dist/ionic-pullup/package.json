@@ -1,0 +1,25 @@
+{
+  "name": "ionic-pullup",
+  "version": "5.0.0",
+  "devDependencies": {
+    "@types/hammerjs": "^2.0.36"
+  },
+  "peerDependencies": {
+    "@angular/common": "^8.1.3",
+    "@angular/core": "^8.1.3",
+    "hammerjs": "^2.0.8"
+  },
+  "main": "bundles/ionic-pullup.umd.js",
+  "module": "fesm5/ionic-pullup.js",
+  "es2015": "fesm2015/ionic-pullup.js",
+  "esm5": "esm5/ionic-pullup.js",
+  "esm2015": "esm2015/ionic-pullup.js",
+  "fesm5": "fesm5/ionic-pullup.js",
+  "fesm2015": "fesm2015/ionic-pullup.js",
+  "typings": "ionic-pullup.d.ts",
+  "sideEffects": false,
+  "scripts": {
+    "prepublishOnly": "node --eval \"console.error('ERROR: Trying to publish a package that has been compiled by Ivy. This is not allowed.\\nPlease delete and rebuild the package, without compiling with Ivy, before attempting to publish.\\n')\" && exit 1"
+  },
+  "dependencies": {}
+}

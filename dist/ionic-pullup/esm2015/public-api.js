@@ -1,0 +1,7 @@
+/*
+ * Public API Surface of ionic-pullup
+ */
+export * from './lib/ionic-pullup-tab.component';
+export * from './lib/ionic-pullup.component';
+export * from './lib/ionic-pullup.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL2lvbmljLXB1bGx1cC8iLCJzb3VyY2VzIjpbInB1YmxpYy1hcGkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7O0dBRUc7QUFFSCxjQUFjLGtDQUFrQyxDQUFDO0FBQ2pELGNBQWMsOEJBQThCLENBQUM7QUFDN0MsY0FBYywyQkFBMkIsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2YgaW9uaWMtcHVsbHVwXG4gKi9cblxuZXhwb3J0ICogZnJvbSAnLi9saWIvaW9uaWMtcHVsbHVwLXRhYi5jb21wb25lbnQnO1xuZXhwb3J0ICogZnJvbSAnLi9saWIvaW9uaWMtcHVsbHVwLmNvbXBvbmVudCc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9pb25pYy1wdWxsdXAubW9kdWxlJztcbiJdfQ==
