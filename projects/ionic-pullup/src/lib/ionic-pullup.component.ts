@@ -127,7 +127,7 @@ export class IonicPullupComponent implements OnInit, AfterContentInit, OnChanges
   }
 
   ngOnInit() {
-    // console.debug('ionic-pullup => Initializing footer...');
+    console.debug('ionic-pullup => Initializing footer...');
 
     window.addEventListener('orientationchange', () => {
       // console.debug('ionic-pullup => Changed orientation => updating');
